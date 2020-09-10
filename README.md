@@ -1,2 +1,2 @@
 # portfolio
-This is Minwhan "Zane" Cho's data visualization portfolio. 
+This is a data visualization portfolio created by Minwhan "Zane" Cho.
