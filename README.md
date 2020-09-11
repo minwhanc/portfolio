@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio by Zane Cho
 This is a data visualization portfolio created by Zane Cho for 94-870 A1 Telling Stories with Data, Fall 2020.
 
 # About me
