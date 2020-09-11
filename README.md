@@ -1,6 +1,3 @@
-# portfolio
-This is a data visualization portfolio created by Zane Cho for 94-870 A1 Telling Stories with Data, Fall 2020.
-
 # About me
 Hello, my name is Minwhan "Zane" Cho, and I am referred to by 'he/him' pronouns. I have completed my bachelor's degree in Economics and Statistics at Carnegie Mellon University, and I am currently continuing my studies at the same school as a Master of Entertainment Industry Management (MEIM) First-Year student.
 
