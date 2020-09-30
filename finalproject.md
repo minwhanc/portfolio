@@ -5,3 +5,4 @@ With numerous competitors entering the SVoD market, it has been more critical th
 
 _**Initial Sketches**_<br/>
 ![sketch1](https://user-images.githubusercontent.com/38139294/94751049-7da4fc00-0355-11eb-8272-9812eee7e452.jpg)
+![sketch2](https://user-images.githubusercontent.com/38139294/94751125-ab8a4080-0355-11eb-9738-354c38e7ec4d.jpg)
