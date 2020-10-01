@@ -8,4 +8,7 @@ _**Initial Sketches**_<br/>
 ![sketch2](https://user-images.githubusercontent.com/38139294/94751125-ab8a4080-0355-11eb-9738-354c38e7ec4d.jpg)
 ![sketch3](https://user-images.githubusercontent.com/38139294/94751167-c78de200-0355-11eb-8578-5d53817b85ec.jpg)
 ![sketch4](https://user-images.githubusercontent.com/38139294/94751171-cd83c300-0355-11eb-983e-5d1cc806607d.jpg)
-![sketch5](https://user-images.githubusercontent.com/38139294/94751176-d1174a00-0355-11eb-9d14-063ce88e3fc5.jpg)
+![sketch5](https://user-images.githubusercontent.com/38139294/94751176-d1174a00-0355-11eb-9d14-063ce88e3fc5.jpg)<br/>
+
+_**Data**_<br/>
+_Are day-and-date movie releases here to day?_ (2020, March 17). https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/.
