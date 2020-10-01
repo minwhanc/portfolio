@@ -14,3 +14,4 @@ _**Data**_<br/>
 * [_Are day-and-date movie releases here to day?_ (2020, March 17).](https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/)
 * [Morning Consult, The Hollywood Reporter. (2020). (rep.). _National Tracking Poll #200657 June 11-13, 2020_.](https://assets.morningconsult.com/wp-uploads/2020/06/22125849/200657_crosstabs_HOLLYWOOD_Adults_v1_AUTO.pdf)
 * [Limelight Networks. (2019). (rep.). _The State of Online Video 2019_.](https://img03.en25.com/Web/LLNW/%7B6b5bd98a-7f56-4e2e-a8fb-bf5e2d7b9fe8%7D_SOOV_MR_10-19.pdf)
+* [Watson, A. (2020, July 30). _SVoD services exclusive content catalog share in the U.S. 2020_. Statista.](https://www.statista.com/statistics/1110900/svod-services-original-content-us/)
