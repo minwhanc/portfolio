@@ -11,5 +11,5 @@ _**Initial Sketches**_<br/>
 ![sketch5](https://user-images.githubusercontent.com/38139294/94751176-d1174a00-0355-11eb-9d14-063ce88e3fc5.jpg)<br/>
 
 _**Data**_<br/>
-_Are day-and-date movie releases here to day?_ (2020, March 17). https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/.
-Morning Consult, The Hollywood Reporter. (2020). (rep.). _National Tracking Poll #200657 June 11-13, 2020_. Retrieved from https://assets.morningconsult.com/wp-uploads/2020/06/22125849/200657_crosstabs_HOLLYWOOD_Adults_v1_AUTO.pdf 
+* _Are day-and-date movie releases here to day?_ (2020, March 17). https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/.
+* Morning Consult, The Hollywood Reporter. (2020). (rep.). _National Tracking Poll #200657 June 11-13, 2020_. Retrieved from https://assets.morningconsult.com/wp-uploads/2020/06/22125849/200657_crosstabs_HOLLYWOOD_Adults_v1_AUTO.pdf 
