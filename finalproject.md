@@ -11,6 +11,7 @@ _**Initial Sketches**_<br/>
 ![sketch5](https://user-images.githubusercontent.com/38139294/94751176-d1174a00-0355-11eb-9d14-063ce88e3fc5.jpg)<br/>
 
 _**Data**_<br/>
+Data have been collected from multiple data sources as listed and linked below; all the datasets are publicly-accessible. Within our sources, some of the data are in table formats, and some are visualized. However, if visualized, all the data points are marked with values so that the data can be collected. There are two approaches that this project plans on taking to use the data: redesign or recreate. For data that has already been visualized, the project will redesign the visualization using the skill and technique learned throughout this course so that the chart can be more suitable for the project's story. On the other hand, there are some data that has to be created from scratch. For those data, the project aims to create a visualization using the most appropriate chart type and design it to illustrate its part of the story in a most efficient manner.<br/>
 * [_Are day-and-date movie releases here to day?_ (2020, March 17).](https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/)
 * [_Daily Question: 21/12/2016_. YouGov.](https://yougov.co.uk/topics/lifestyle/survey-results/daily/2016/12/21/43be0/3)
 * [Limelight Networks. (2019). (rep.). _The State of Online Video 2019_.](https://img03.en25.com/Web/LLNW/%7B6b5bd98a-7f56-4e2e-a8fb-bf5e2d7b9fe8%7D_SOOV_MR_10-19.pdf)
