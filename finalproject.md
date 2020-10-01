@@ -10,7 +10,7 @@ _**Initial Sketches**_<br/>
 ![sketch4](https://user-images.githubusercontent.com/38139294/94751171-cd83c300-0355-11eb-983e-5d1cc806607d.jpg)
 ![sketch5](https://user-images.githubusercontent.com/38139294/94751176-d1174a00-0355-11eb-9d14-063ce88e3fc5.jpg)<br/>
 
-_**Data**_
+_**Data**_<br/>
 * [_Are day-and-date movie releases here to day?_ (2020, March 17).](https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/)
 * [_Daily Question: 21/12/2016_. YouGov.](https://yougov.co.uk/topics/lifestyle/survey-results/daily/2016/12/21/43be0/3)
 * [Limelight Networks. (2019). (rep.). _The State of Online Video 2019_.](https://img03.en25.com/Web/LLNW/%7B6b5bd98a-7f56-4e2e-a8fb-bf5e2d7b9fe8%7D_SOOV_MR_10-19.pdf)
