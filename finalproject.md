@@ -12,6 +12,7 @@ _**Initial Sketches**_<br/>
 
 _**Data**_<br/>
 * [_Are day-and-date movie releases here to day?_ (2020, March 17).](https://nscreenmedia.com/day-and-date-movie-releases-here-to-stay/)
+* [_Daily Question: 21/12/2016_. YouGov.](https://yougov.co.uk/topics/lifestyle/survey-results/daily/2016/12/21/43be0/3)
 * [Limelight Networks. (2019). (rep.). _The State of Online Video 2019_.](https://img03.en25.com/Web/LLNW/%7B6b5bd98a-7f56-4e2e-a8fb-bf5e2d7b9fe8%7D_SOOV_MR_10-19.pdf)
 * [Morning Consult, The Hollywood Reporter. (2020). (rep.). _National Tracking Poll #200657 June 11-13, 2020_.](https://assets.morningconsult.com/wp-uploads/2020/06/22125849/200657_crosstabs_HOLLYWOOD_Adults_v1_AUTO.pdf)
 * [_The Nielsen Total Audience Report: August 2020_. Nielsen.](https://www.nielsen.com/us/en/insights/report/2020/the-nielsen-total-audience-report:-august-2020/)
