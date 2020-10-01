@@ -22,5 +22,5 @@ Data have been collected from multiple data sources as listed and linked below; 
 * [Watson, A. (2020, July 30). _SVoD services exclusive content catalog share in the U.S. 2020_. Statista.](https://www.statista.com/statistics/1110900/svod-services-original-content-us/)
 * [Watson, A. (2020, September 10). _Original TV show share on SVoD services U.S. 2020_. Statista.](https://www.statista.com/statistics/1139077/share-original-tv-show-svod-usa/.)
 <br/>
-_**Methods and Media**_
+_**Methods and Media**_<br/>
 For the project, _Shorthand_ will be used to build a story using its data. Thus, the next step for this project would be to create a storyboard using _Shorthand_. Furthermore, as the project will use _Tableau_ for all graphic visualizations that will be presented in the storyboard, visualizing the collected data with _Tableau_ would also be included in our next step of this project.
