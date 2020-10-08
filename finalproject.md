@@ -26,6 +26,7 @@ _**Methods and Media**_<br/>
 For the project, _Shorthand_ will be used to build a story using its data. Thus, the next step for this project would be to create a storyboard using _Shorthand_. Furthermore, as the project will use _Tableau_ for all graphic visualizations that will be presented in the storyboard, visualizing the collected data with _Tableau_ would also be included in our next step of this project.
 
 _**Wireframes and Storyboards**_<br/>
+Before moving on to wireframing my sketches, I got some valuable feedback from my peers in class and applied them to my work. For example, for my pie charts sketch that tried to illustrate trends shifting from theater to SVoD, one of my peers suggested perhaps it may be better to show changing trends side-by-side with more time instance, if possible. The original dataset included three instances of data (Nov. 2018, Mar. 2020 and Jun. 2020. In my sketch, I excluded Mar. 2020 one out to create two pie charts, but after the feedback, I decided to put it back into my visualization and create a proportional stacked bar chart instead. Also, another great notion allowed me to see what I missed when drawing my sketches. For my sketch showing how daily time spent with different media devices change over the years, the choice of my chart (stacked bar chart)  did not seem to deliver its message so clearly. The original purpose of the visualization was to reduce the running time of content to make it more compatible to watch on mobile devices. However, with the overall chart showing an increase in viewing time, the claim seemed somewhat unsupported. Therefore, I decided to switch it to a proportional bar chart to align it with the chart's purpose.<br/>
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 54 52 PM" src="https://user-images.githubusercontent.com/38139294/95406190-d2adb880-08e7-11eb-995d-8f505af33ec9.png">
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 47 23 PM" src="https://user-images.githubusercontent.com/38139294/95406201-d6413f80-08e7-11eb-8206-93d60c4d7e8d.png">
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 47 51 PM" src="https://user-images.githubusercontent.com/38139294/95406215-db9e8a00-08e7-11eb-8626-e478b3710830.png">
@@ -37,4 +38,6 @@ _**Wireframes and Storyboards**_<br/>
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 52 05 PM" src="https://user-images.githubusercontent.com/38139294/95406254-fa9d1c00-08e7-11eb-87e1-e0712860c478.png">
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 52 17 PM" src="https://user-images.githubusercontent.com/38139294/95406272-ff61d000-08e7-11eb-8aac-d8c9c4ee430d.png">
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 52 30 PM" src="https://user-images.githubusercontent.com/38139294/95406277-038ded80-08e8-11eb-89cd-5a5b047dd31b.png">
-<img width="1440" alt="Screen Shot 2020-10-07 at 9 52 43 PM" src="https://user-images.githubusercontent.com/38139294/95406286-0852a180-08e8-11eb-9b1e-f940abd32a19.png">
+<img width="1440" alt="Screen Shot 2020-10-07 at 9 52 43 PM" src="https://user-images.githubusercontent.com/38139294/95406286-0852a180-08e8-11eb-9b1e-f940abd32a19.png"><br/>
+
+_**User Research and Interviews**_
