@@ -25,6 +25,7 @@ Data have been collected from multiple data sources as listed and linked below; 
 _**Methods and Media**_<br/>
 For the project, _Shorthand_ will be used to build a story using its data. Thus, the next step for this project would be to create a storyboard using _Shorthand_. Furthermore, as the project will use _Tableau_ for all graphic visualizations that will be presented in the storyboard, visualizing the collected data with _Tableau_ would also be included in our next step of this project.
 
+## Part II
 _**Wireframes and Storyboards**_<br/>
 Before moving on to wireframing my sketches, I got some valuable feedback from my peers in class and applied them to my work. For example, for my pie charts sketch that tried to illustrate trends shifting from theater to SVoD, one of my peers suggested perhaps it may be better to show changing trends side-by-side with more time instance, if possible. The original dataset included three instances of data (Nov. 2018, Mar. 2020 and Jun. 2020. In my sketch, I excluded Mar. 2020 one out to create two pie charts, but after the feedback, I decided to put it back into my visualization and create a proportional stacked bar chart instead. Also, another great notion allowed me to see what I missed when drawing my sketches. For my sketch showing how daily time spent with different media devices change over the years, the choice of my chart (stacked bar chart)  did not seem to deliver its message so clearly. The original purpose of the visualization was to reduce the running time of content to make it more compatible to watch on mobile devices. However, with the overall chart showing an increase in viewing time, the claim seemed somewhat unsupported. Therefore, I decided to switch it to a proportional bar chart to align it with the chart's purpose.<br/>
 <img width="1440" alt="Screen Shot 2020-10-07 at 9 54 52 PM" src="https://user-images.githubusercontent.com/38139294/95406190-d2adb880-08e7-11eb-995d-8f505af33ec9.png">
@@ -47,13 +48,14 @@ Both of my interviewees seem to understand the storyline of my storyboard clearl
 
 The suggestions were incredibly helpful in showing me aspects of my story that I was unaware of. To address the identified issues, I plan to find a more recent and appropriate dataset for the chart "Households Are Unlikely to Subscribe to More Than Three SVoD Services," and I will include a line of survey information on the charts based on survey data, but do it so concisely to avoid wordiness in my visualization. For the last suggestion made, I am rather careful to implement it into the section as it may distort my message. My original intent is, in brief words, "consumers want short content, and it may be 'associated' with their tendency to use handheld devices more often than other devices like TV." However, if I were to change the order as suggested, I am worried it may look like "people tend to use handheld devices more often than other devices, and it 'caused' them to prefer shorter content more than the longer ones." The second one may be true, although I highly doubt it. But besides its validity, because the confounding variables have not yet been identified and the causality has not yet been tested under random selections, that causal statement is not valid. The confusion that my interviewee pointed out may have been from my choice of the background (a person viewing SVoD on their phone). So, I plan to find (or create) an alternative background for that part of the section.<br/>
 
+## Part III
 _**Final Data Story**_<br/>
 
-_***Link to Shorthand***_<br/>
+_**Link to Shorthand**_<br/>
 * [Where should SVoD services "stream" to](https://carnegiemellon.shorthandstories.com/future-of-svod/)
 <br/>
 
-_***References (for visuals)***_<br/>
+_**References (for visuals)**_<br/>
 * [Baumeister, M. (2020, April 26). _woman holding black android smartphone_. Unsplash](https://unsplash.com/photos/c5oiFqJGlgc)
 * [Cunningham, H. (2020, January 1). _shallow focus photo of man in gray collared top taking selfie photo_. Unsplash](https://unsplash.com/photos/1-Osp6CvhXc)
 * [Fahim, M. (2020, April 6). _DON"T PANIC_. Unsplash](https://unsplash.com/photos/pVnViWUWE9A)
