@@ -49,9 +49,10 @@ The suggestions were incredibly helpful in showing me aspects of my story that I
 
 _**Final Data Story**_<br/>
 <script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/future-of-svod/"><h1>Where should SVoD services "stream" to?</h1><p>Analysis of fast-changing trends within consumer behaviors using SVoD</p></div><br/>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/future-of-svod/"><h1>Where should SVoD services "stream" to?</h1><p>Analysis of fast-changing trends within consumer behaviors using SVoD</p></div>
+<br/>
 
-_**References (for visuals)**_
+_**References (for visuals)**_<br/>
 * [Baumeister, M. (2020, April 26). _woman holding black android smartphone_. Unsplash](https://unsplash.com/photos/c5oiFqJGlgc)
 * [Cunningham, H. (2020, January 1). _shallow focus photo of man in gray collared top taking selfie photo_. Unsplash](https://unsplash.com/photos/1-Osp6CvhXc)
 * [Fahim, M. (2020, April 6). _DON"T PANIC_. Unsplash](https://unsplash.com/photos/pVnViWUWE9A)
