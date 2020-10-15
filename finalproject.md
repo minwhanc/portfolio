@@ -48,11 +48,12 @@ Both of my interviewees seem to understand the storyline of my storyboard clearl
 The suggestions were incredibly helpful in showing me aspects of my story that I was unaware of. To address the identified issues, I plan to find a more recent and appropriate dataset for the chart "Households Are Unlikely to Subscribe to More Than Three SVoD Services," and I will include a line of survey information on the charts based on survey data, but do it so concisely to avoid wordiness in my visualization. For the last suggestion made, I am rather careful to implement it into the section as it may distort my message. My original intent is, in brief words, "consumers want short content, and it may be 'associated' with their tendency to use handheld devices more often than other devices like TV." However, if I were to change the order as suggested, I am worried it may look like "people tend to use handheld devices more often than other devices, and it 'caused' them to prefer shorter content more than the longer ones." The second one may be true, although I highly doubt it. But besides its validity, because the confounding variables have not yet been identified and the causality has not yet been tested under random selections, that causal statement is not valid. The confusion that my interviewee pointed out may have been from my choice of the background (a person viewing SVoD on their phone). So, I plan to find (or create) an alternative background for that part of the section.<br/>
 
 _**Final Data Story**_<br/>
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/future-of-svod/"><h1>Where should SVoD services "stream" to?</h1><p>Analysis of fast-changing trends within consumer behaviors using SVoD</p></div>
+
+_***Link to Shorthand***_<br/>
+* [Where should SVoD services "stream" to](https://carnegiemellon.shorthandstories.com/future-of-svod/)
 <br/>
 
-_**References (for visuals)**_<br/>
+_***References (for visuals)***_<br/>
 * [Baumeister, M. (2020, April 26). _woman holding black android smartphone_. Unsplash](https://unsplash.com/photos/c5oiFqJGlgc)
 * [Cunningham, H. (2020, January 1). _shallow focus photo of man in gray collared top taking selfie photo_. Unsplash](https://unsplash.com/photos/1-Osp6CvhXc)
 * [Fahim, M. (2020, April 6). _DON"T PANIC_. Unsplash](https://unsplash.com/photos/pVnViWUWE9A)
